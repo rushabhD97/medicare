@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "826691908147",
+    "firebase_url": "https://hmi-mini.firebaseio.com",
+    "project_id": "hmi-mini",
+    "storage_bucket": "hmi-mini.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826691908147:android:260b33d1054dccda",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826691908147-gsk3htdjs865tl7ciohgi83v19ivm9e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3jq5nCdt6tiXO2a5Hl6hmhSgL1U8D90"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826691908147:android:598f156b9d2654c0",
+        "android_client_info": {
+          "package_name": "com.example.medicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826691908147-gsk3htdjs865tl7ciohgi83v19ivm9e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3jq5nCdt6tiXO2a5Hl6hmhSgL1U8D90"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
